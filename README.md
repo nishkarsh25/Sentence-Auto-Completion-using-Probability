@@ -11,8 +11,8 @@ To calculate this probability, the function looks up the counts of the relevant 
 Overall, this code can be used as a basic language model for generating sentences or predicting the next word given a partial sentence. However, it has some limitations, such as not taking into account the context of the sentence beyond the last few words, and not accounting for the grammatical structure of the sentence.
 
 # Input
-<img width="142" alt="image" src="https://user-images.githubusercontent.com/117291117/228686202-3ee5ce5b-4b9d-4e0d-86d8-0062f7af9778.png">
-<img width="142" alt="image" src="https://user-images.githubusercontent.com/117291117/228686313-5ab822c3-e7e7-489e-845b-0247a359ec7c.png">
+<img width="175" alt="image" src="https://user-images.githubusercontent.com/117291117/228686202-3ee5ce5b-4b9d-4e0d-86d8-0062f7af9778.png">
+<img width="175" alt="image" src="https://user-images.githubusercontent.com/117291117/228686313-5ab822c3-e7e7-489e-845b-0247a359ec7c.png">
 
 # Output
 <img width="275" alt="image" src="https://user-images.githubusercontent.com/117291117/228685592-95b54b10-e476-43c1-9065-f6358fdc24f4.png">
