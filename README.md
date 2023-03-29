@@ -9,3 +9,11 @@ The provided code is a language model that:
 To calculate this probability, the function looks up the counts of the relevant n-grams in the corresponding models, and divides the count of the relevant n-gram that ends with the suggested word by the count of the n-gram that ends with the last two or three words of the input sentence. If there is no such n-gram in the model, the function looks for the probability based on a shorter n-gram model (for example, if there is no trigram that ends with the suggested word, it looks for a bigram that ends with the last word of the input sentence).
 
 Overall, this code can be used as a basic language model for generating sentences or predicting the next word given a partial sentence. However, it has some limitations, such as not taking into account the context of the sentence beyond the last few words, and not accounting for the grammatical structure of the sentence.
+
+# Input
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/117291117/228685434-e98a8c68-1a06-47f7-a5bb-bc90770139bc.png">
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/117291117/228685504-a4fb92a5-dafe-48c6-ac07-7a840e8f16e4.png">
+
+# Output
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/117291117/228685592-95b54b10-e476-43c1-9065-f6358fdc24f4.png">
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/117291117/228685648-25d12931-7bd5-44cd-9b08-0e45dab85ea5.png">
