@@ -1,3 +1,13 @@
+# Difficulty viewing large code files?
+
+If you're having trouble viewing large code files on GitHub, you may find it helpful to download a ZIP file containing the entire repository. To do so, follow these steps:
+
+1. Click on the green "Code" button on the repository page.
+2. Select "Download ZIP" from the dropdown menu.
+3. Save the ZIP file to your computer.
+
+This can be particularly useful if you're experiencing issues with GitHub's web interface or if you need to access the repository without an internet connection. If you have any questions or concerns, please don't hesitate to contact us. 
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/117291117/231703905-7469ae09-6d82-4f77-ad05-fa29142ac9a8.png">
 # Sentence Auto Completion using Probability
 
 The provided code is a language model that:
